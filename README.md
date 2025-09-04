@@ -1,3 +1,20 @@
+Développement d’un Réseau Social Complet
+-Conception et implémentation d’un réseau social fonctionnel intégrant :
+- Authentification sécurisée des utilisateurs
+-Gestion des profils (informations, avatars, paramètres)
+- Fil d’actualité avec publication de posts (texte + images)
+- Interactions sociales (likes & commentaires)
+- Messagerie privée entre utilisateurs
+Sécurité renforcée :
+-Gestion des mots de passe via password_hash
+-Protection CSRF par tokens uniques
+- Requêtes SQL sécurisées avec PDO préparé
+- Filtrage des fichiers uploadés pour éviter les injections Interface utilisateur (UI) : design responsive en HTML/CSS pour une expérience fluide et intuitive.
+
+-Stack technique : PHP 8, MySQL, Apache (XAMPP), phpMyAdmin.
+
+- Ce projet illustre ma capacité à développer une plateforme web complète, sécurisée et scalable, tout en appliquant les bonnes pratiques de cybersécurité et en garantissant une expérience utilisateur optimale.
+- 
 <img width="1792" height="1120" alt="Capture d’écran 2025-08-20 à 21 37 54" src="https://github.com/user-attachments/assets/94c26802-8831-413c-b3cd-a4fbf0e5c374" />
 <img width="1792" height="1120" alt="Capture d’écran 2025-08-20 à 21 37 54" src="https://github.com/user-attachments/assets/70cc5b9e-3232-4045-8201-e379c50d2c68" />
 <img width="1792" height="1120" alt="Capture d’écran 2025-08-20 à 21 38 36" src="https://github.com/user-attachments/assets/5c2b49f3-2e00-4571-86ff-d141d2a16de4" />
